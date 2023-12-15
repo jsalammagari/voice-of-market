@@ -3,6 +3,8 @@ Decoding Public Sentiment: Sentiment Analysis of Twitter Data to Understand Perc
 
 [Open Project Proposal](https://docs.google.com/document/d/15CHM26XU58Q4i_XkvuoKW1_-P71nDP4J/edit?usp=sharing&ouid=102634646235099236813&rtpof=true&sd=true).
 
+[Open Project Report](https://docs.google.com/document/d/1DcnRw8qeaxFDULBNWehl3uffohdFVtbJd0d-jeqwu0E/edit?usp=sharing).
+
 **Data preprocessing**
 
 <a href="https://colab.research.google.com/drive/1YHl2Zc6bmHG1_YGhPRkZdyeRowYdEUd0?usp=sharing"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab" title="Open and Execute in Google Colaboratory"></a>.
