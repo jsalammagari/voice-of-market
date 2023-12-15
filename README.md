@@ -22,3 +22,5 @@ Decoding Public Sentiment: Sentiment Analysis of Twitter Data to Understand Perc
 **Slideshare presentation** : [View the presentation here](https://docs.google.com/presentation/d/1WQGD3zzw-AKSqEB0UKTn7_egqxh-GGqD/edit?usp=sharing&ouid=102634646235099236813&rtpof=true&sd=true).
 
 **Video presentation** : [Access the video presentation here](https://drive.google.com/file/d/15us0ajyR16C5olzrTv008uoEUKMikRYE/view?usp=sharing).
+
+**Live link** : https://voice-of-market.onrender.com/
