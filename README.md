@@ -5,12 +5,14 @@ Deciphering Market Moods, Defining Corporate Reputations - defining company's re
 
 **Data preprocessing**
 
-<a href="https://drive.google.com/file/d/1-RYBgMF6mCTRNnhFXLBB_hJDYzE5QnRD/view?usp=sharing"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab" title="Open and Execute in Google Colaboratory"></a>.
+<a href="https://colab.research.google.com/drive/1YHl2Zc6bmHG1_YGhPRkZdyeRowYdEUd0?usp=sharing"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab" title="Open and Execute in Google Colaboratory"></a>.
 
 **Exploratory Analysis**
 
-<a href="https://drive.google.com/file/d/1eZjPbI3-pmYegm3LE_riRLs0OOBmp-nG/view?usp=sharing"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab" title="Open and Execute in Google Colaboratory"></a>.
+<a href="https://colab.research.google.com/drive/1VYYcFlGRHHpY42CuxhuVp2p-Oq3CXsX-?usp=sharing"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab" title="Open and Execute in Google Colaboratory"></a>.
 
 **Sentiment Analysis**
 
-<a href="https://drive.google.com/file/d/1B1doAlg8r3L_-lf4n7N7HanSuqbyqPNg/view?usp=sharing"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab" title="Open and Execute in Google Colaboratory"></a>.
+<a href="https://colab.research.google.com/drive/12sJGaKtHVhQyUaXmxLkLcL2hPt7aSVfA?usp=sharing"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab" title="Open and Execute in Google Colaboratory"></a>.
+
+Access the data set of Big Tech Companies - Tweet Sentiment [here](https://drive.google.com/file/d/1dMh_a3VcijjTcogB18I6ZupYTz2JImTA/view?usp=sharing).
